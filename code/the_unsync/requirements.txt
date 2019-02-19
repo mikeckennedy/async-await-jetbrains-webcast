@@ -1,0 +1,11 @@
+unsync
+aiohttp
+cchardet
+requests
+bs4
+colorama
+
+# This one can give you trouble on Windows
+# Feel free to uncomment it but it also works without it
+# Just a little less well.
+# aiodns
