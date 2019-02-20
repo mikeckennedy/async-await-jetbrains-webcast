@@ -35,6 +35,7 @@ def compute_some():
     print("Computing...")
     for _ in range(1, 10_000_000):
         math.sqrt(25 ** 25 + .01)
+    print("Compute done")
 
 
 @unsync
